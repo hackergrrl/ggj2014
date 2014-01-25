@@ -3,6 +3,7 @@ package scenes;
 import entities.Spring;
 import com.haxepunk.graphics.Image;
 import updatables.*;
+import com.haxepunk.utils.Key;
 
 class AndrewScene extends MainScene
 {
